@@ -1,4 +1,4 @@
-## strip
+## strip_character
 Extension of String that removes all characters that match the delimiter
 
 ## Usage
