@@ -1,18 +1,26 @@
-# strip
-Remove all characters that match the delimiter
+## strip
+Extension of String that removes all characters that match the delimiter
 
-# Usage
+## Usage
 ```js
+require('./index.js')();
 
-require(['./helper/extendString.js'],
-  function (extendString){
-    extendString();
+"Hello World".strip(' ');
+//=> HelloWorld
 
-    "Hello World".strip(' ');
-    //=> HelloWorld
-
-    "This is the end of the world as we know it".strip('w');
-    //=>This is the end of the orld as e kno it
-  }
-);
+"This is the end of the world as we know it".strip('w');
+//=>This is the end of the orld as e kno it
 ```
+
+## API
+
+### String.strip(delimiter)
+
+##### delimiter
+Type: String
+
+Extension of String that removes all characters that match the delimiter
+
+##License
+
+MIT © [Alex Brelsford](abrelsfo.github.io)
