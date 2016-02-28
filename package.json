@@ -1,16 +1,29 @@
 {
   "name": "strip",
-  "version": "1.0.0",
-  "description": "Remove all characters that match delimiter",
-  "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "version": "0.0.1",
+  "description": "Extension of the String class that removes all characters that match the delimiter",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrelsfo/strip.git"
   },
   "keywords": [
     "strip",
-    "remove",
-    "expunge"
+    "extend",
+    "expunge",
+    "grammar",
+    "literacy",
+    "strings",
+    "string",
+    "alex"
   ],
   "author": "Alex Brelsford <alexbrelsford@gmail.com> (abrelsfo.github.io)",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abrelsfo/strip/issues"
+  },
+  "engines": {
+    "node": ">=0.12.5"
+  },
+  "homepage": "https://github.com/abrelsfo/strip#readme"
 }
