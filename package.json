@@ -1,6 +1,6 @@
 {
   "name": "strip",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Remove all characters that match delimiter",
   "main": "main.js",
   "scripts": {
