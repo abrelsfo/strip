@@ -1,7 +1,7 @@
 {
   "name": "strip",
   "version": "0.0.1",
-  "description": "Remove all characters that match delimiter",
+  "description": "Extension of String that removes all characters that match delimiter",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
