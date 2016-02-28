@@ -23,9 +23,9 @@ require('strip_character')();
 Type: String
 
 ##### strip
-Type: Boolean
-true: case-insensitive
-false: case-sensitive
+Type: Boolean<br>
+true: case-insensitive<br>
+false: case-sensitive<br>
 default: true
 
 Extension of String that removes all characters that match the delimiter
