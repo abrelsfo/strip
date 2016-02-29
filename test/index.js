@@ -23,3 +23,4 @@ describe('#strip', function () {
         s.should.equal('Thisisheendofheworldasweknowi');
     });
 });
+
