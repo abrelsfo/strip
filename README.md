@@ -1,4 +1,5 @@
 ## strip_character
+[![npm version](https://img.shields.io/npm/v/strip_character.svg)](https://www.npmjs.com/package/strip_character)
 Extension of String that removes all characters that match the delimiter
 
 ## Usage
