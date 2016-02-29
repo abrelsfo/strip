@@ -1,6 +1,6 @@
 {
   "name": "strip_character",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Extension of String that removes all characters that match delimiter",
   "main": "main.js",
   "repository": {
@@ -10,6 +10,9 @@
   "scripts": {
     "test": "mocha"
   },
+  "files": [
+    "index.js"
+  ],
   "keywords": [
     "strip",
     "extend",
