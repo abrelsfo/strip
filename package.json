@@ -1,6 +1,6 @@
 {
-  "name": "strip",
-  "version": "0.0.1",
+  "name": "strip_character",
+  "version": "0.0.3",
   "description": "Extension of String that removes all characters that match delimiter",
   "main": "main.js",
   "repository": {
@@ -8,13 +8,14 @@
     "url": "git+https://github.com/abrelsfo/strip.git"
   },
   "scripts": {
-    "test": "make test"
+    "test": "mocha"
   },
   "keywords": [
     "strip",
     "extend",
     "expunge",
     "grammar",
+    "character",
     "literacy",
     "strings",
     "string",
