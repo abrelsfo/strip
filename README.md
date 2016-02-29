@@ -1,5 +1,6 @@
 ## strip_character
 [![npm version](https://img.shields.io/npm/v/strip_character.svg)](https://www.npmjs.com/package/strip_character)
+[![Build Status](https://travis-ci.org/dawsonbotsford/arrford.svg?branch=master)](https://travis-ci.org/abrelsfo/strip.svg?branch=master)
 [![NPM downloads](http://img.shields.io/npm/dm/strip_character.svg?style=flat)](http://npmjs.org/strip_character)
 
 >Extension of String that removes all characters that match the delimiter
