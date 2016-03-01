@@ -29,7 +29,7 @@ require('strip_character')();
 
 
 <br>
-### API
+## API
 ### String.strip(delimiter[, strip])
 
 ##### delimiter
