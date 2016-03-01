@@ -9,11 +9,11 @@
 > Extension of String that removes all characters that match the delimiter
 
 <br>
-### Installation
+## Installation
 ```npm install strip_character```
 
 <br>
-### Usage
+## Usage
 ```js
 require('strip_character')();
 
@@ -45,7 +45,7 @@ Extension of String that removes all characters that match the delimiter
 
 
 <br>
-### License
+## License
 MIT © [Alex Brelsford](abrelsfo.github.io)
 
 
